@@ -1,8 +1,7 @@
 ## Hello,World!
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
-Hi, I'm Yuxiang Chen, a graduate student at East China University of Science and Technology. 
-
+<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Yuxiang Chen, a graduate student at East China University of Science and Technology. 
+<p></p>
 
 <table align="center">
 <tr>
@@ -10,7 +9,6 @@ Hi, I'm Yuxiang Chen, a graduate student at East China University of Science and
 
 #### 🏋️‍♀️ <a href="https://github.com/chenyuxiang0425/CS-Notes/blob/master/README.md" target="_blank">Talking about Personal Stuffs</a>
 <!-- recent_releases starts -->
-
 
 - 🔭 I’m currently working on my master's thesis;
 - 🌱 I’m currently learning operating system and software construction; 
@@ -29,13 +27,23 @@ Hi, I'm Yuxiang Chen, a graduate student at East China University of Science and
 <td valign="top" width="40%">
 
  <img alt="GIF" max-height="100" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"><a href="https://github.com/chenyuxiang0425"><img src="https://github-readme-stats.vercel.app/api?username=chenyuxiang0425&hide_border=true&show_icons=true" alt="Yuxiang Chen's github stats"></a></p>
+
+</td>
+<td>
+
+#### My social accounts
+- <strong><a href="https://chenyuxiang0425.github.io">Blog</a></strong>
+- <strong><a href="https://www.zhihu.com/people/yu-xiang-82-74">Zhihu</a></strong>
+- <strong><a href="https://t.me/chenyuxiang0425">Telegram</a></strong>
 
 </td>
 </tr>
+
 </table>
 
-<p align="center"><a href="https://github.com/chenyuxiang0425"><img src="https://github-readme-stats.vercel.app/api?username=chenyuxiang0425&hide_border=true&show_icons=true" alt="Yuxiang Chen's github stats"></a></p>
 
-<p align="center">
-  <strong><a href="https://chenyuxiang0425.github.io">Blog</a></strong> | <strong><a href="https://www.zhihu.com/people/yu-xiang-82-74">Zhihu</a></strong> | <strong><a href="https://t.me/chenyuxiang0425">Telegram</a></strong> 
-</p>
