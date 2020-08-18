@@ -1,35 +1,41 @@
+## Hello,World!
+
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
+Hi, I'm Yuxiang Chen, a graduate student at East China University of Science and Technology. 
+
+
+<table align="center">
+<tr>
+<td valign="top" width="60%">
+
+#### 🏋️‍♀️ <a href="https://github.com/chenyuxiang0425/CS-Notes/blob/master/README.md" target="_blank">Talking about Personal Stuffs</a>
+<!-- recent_releases starts -->
+
+
+- 🔭 I’m currently working on my master's thesis;
+- 🌱 I’m currently learning operating system and software construction; 
+- 🤔 I’m looking hard for a job ;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: chenyuxiang0425@gmail.com;
+- 🏊‍♂️ Languages and Tools: <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<!-- recent_releases ends -->
+</td>
+<td valign="top" width="40%">
+
+ <img alt="GIF" max-height="100" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
+
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://github.com/chenyuxiang0425"><img src="https://github-readme-stats.vercel.app/api?username=chenyuxiang0425&hide_border=true&show_icons=true" alt="Yuxiang Chen's github stats"></a></p>
+
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="https://cdn.edisonlee55.com/edisonlee55/resources/photo/2020edisonlee55banner.png" alt="edisonlee55 Banner"></a>
+  <strong><a href="https://chenyuxiang0425.github.io">Blog</a></strong> | <strong><a href="https://www.zhihu.com/people/yu-xiang-82-74">Zhihu</a></strong> | <strong><a href="https://t.me/chenyuxiang0425">Telegram</a></strong> 
 </p>
-
-<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Edison Lee</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
-
-<p align="center">
-  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=edisonlee55&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
-</p>
-
-<p align="center">
-  <strong><a href="https://www.edisonlee55.com">Official Website</a></strong> |
-  <strong><a href="https://twitter.com/edisonlee55">Twitter</a></strong> |
-  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/edisonlee55">LinkedIn</a></strong> |
-  <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong>
-</p>
-
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
-
-<!--
-**edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
