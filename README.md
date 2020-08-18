@@ -26,7 +26,7 @@
 </td>
 <td valign="top" width="40%">
 
- <img alt="GIF" max-height="100" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
+ <img alt="GIF" max-height="80" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
 </td>
 </tr>
 <tr>
