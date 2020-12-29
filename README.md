@@ -1,6 +1,6 @@
 ## Hello,World!
 
-<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Yuxiang Chen, a graduate student at East China University of Science and Technology. 
+<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Yuxiang Chen, a student at East China University of Science and Technology. 
 <p></p>
 
 <table align="center">
@@ -10,9 +10,9 @@
 #### 🏋️‍♀️ <a href="https://github.com/chenyuxiang0425/CS-Notes/blob/master/README.md" target="_blank">Talking about Personal Stuffs</a>
 <!-- recent_releases starts -->
 
-- 🔭 I’m currently working on my master's thesis;
+- 🔭 I’m currently working on my PhD thesis on chemical processes;
 - 🌱 I’m currently learning operating system and software construction; 
-- 🤔 I’m looking hard for a job ;
+- 🤔 I have published one article titled <a href="https://pubs.acs.org/doi/full/10.1021/acs.iecr.0c05483" target="_blank">Structure–Property–Energetics Relationship of Organosulfide Capture Using Cu(I)/Cu(II)-BTC Edited by Valence Engineering</a>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: chenyuxiang0425@gmail.com;
 - 🏊‍♂️ Languages and Tools: <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
