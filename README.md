@@ -11,7 +11,7 @@
 <!-- recent_releases starts -->
 
 - 🔭 I’m currently working on my PhD thesis on chemical processes;
-- 🌱 I’m currently learning operating system and software construction; 
+- 🌱 I’m currently learning system level programming; 
 - 🤔 I have published one article titled <a href="https://pubs.acs.org/doi/full/10.1021/acs.iecr.0c05483" target="_blank">Structure–Property–Energetics Relationship of Organosulfide Capture Using Cu(I)/Cu(II)-BTC Edited by Valence Engineering</a>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: chenyuxiang0425@gmail.com;
