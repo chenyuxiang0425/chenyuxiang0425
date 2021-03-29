@@ -31,7 +31,6 @@
 <td>
 
 #### 🤗 My social accounts
-- <strong><a href="https://chenyuxiang0425.github.io">Blog</a></strong>
 - <strong><a href="https://www.zhihu.com/people/yu-xiang-82-74">Zhihu</a></strong>
 
 </td>
