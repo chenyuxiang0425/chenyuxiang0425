@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on my papers on molecular machine learning;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: chenyuxiang0425@gmail.com;
-- 🏊‍I have benefited greatly from <a href="https://conanhujinming.github.io/">Jinming Hu's computer learning experience</a>.
+- 🏊‍I have benefited greatly from <a href="https://conanhujinming.github.io/">Jinming Hu</a>'s computer learning <a href="https://conanhujinming.github.io/post/how_to_learn_cs/">experience</a>.
 <!-- recent_releases ends -->
 </td>
 <td valign="top" width="40%">
