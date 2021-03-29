@@ -10,8 +10,7 @@
 #### 🏋️‍♀️ <a href="https://github.com/chenyuxiang0425/CS-Notes/blob/master/README.md" target="_blank">Talking about Personal Stuffs</a>
 <!-- recent_releases starts -->
 
-- 🔭 I’m currently working on my PhD thesis on chemical processes;
-- 🌱 I’m currently learning deep learning; 
+- 🔭 I’m currently working on my papers on molecular machine learning;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: chenyuxiang0425@gmail.com;
 - 🏊‍I have benefited greatly from <a href="https://conanhujinming.github.io/">Jinming Hu's computer learning experience</a>.
